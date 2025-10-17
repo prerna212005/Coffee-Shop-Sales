@@ -7,86 +7,82 @@ The dashboard visualizes key metrics such as total sales, footfall, product perf
 
 🧾 Key Insights
 
-Total Sales: ₹6,98,812.33
+* Total Sales: ₹6,98,812.33
 
-Total Footfall: 1,49,116 customers
+* Total Footfall: 1,49,116 customers
 
-Average Bill per Person: ₹4.69
+* Average Bill per Person: ₹4.69
 
-Average Orders per Person: 1.44
+* Average Orders per Person: 1.44
 
 📈 Dashboard Highlights
 
-Quantity Ordered Based on Hours
+1. Quantity Ordered Based on Hours
 
-Shows hourly trends of customer orders throughout the day.
+* Shows hourly trends of customer orders throughout the day.
 
-Peak hours between 8 AM – 10 AM indicate strong morning demand.
+* Peak hours between 8 AM – 10 AM indicate strong morning demand.
 
-Category % Distribution Based on Sales
+2. Category % Distribution Based on Sales
 
-Visualizes which product categories contribute most to sales.
+* Visualizes which product categories contribute most to sales.
 
-Coffee leads with 39% of total sales.
+* Coffee leads with 39% of total sales.
 
-% Size Distribution Based on Orders
+3. % Size Distribution Based on Orders
 
-Displays the percentage of orders by cup size (Large, Regular, Small, etc.).
+* Displays the percentage of orders by cup size (Large, Regular, Small, etc.).
 
-Footfall & Sales Over Store Locations
+4. Footfall & Sales Over Store Locations
 
-Compares customer visits and revenue among Astoria, Hell’s Kitchen, and Lower Manhattan branches.
+* Compares customer visits and revenue among Astoria, Hell’s Kitchen, and Lower Manhattan branches.
 
-Top 5 Products Based on Sales
+5. Top 5 Products Based on Sales
 
-Barista Espresso ranks #1 with ₹91,406.20 in sales.
+* Barista Espresso ranks #1 with ₹91,406.20 in sales.
 
-Orders on Weekdays
+6. Orders on Weekdays
 
-Reveals consistent customer activity across the week with minimal variation.
+* Reveals consistent customer activity across the week with minimal variation.
 
 🧠 Tools Used
 
-Microsoft Excel
+> Microsoft Excel
 
-Pivot Tables
+> Pivot Tables
 
-Charts & Graphs
+> Charts & Graphs
 
-Slicers (for Month & Day filters)
+> Slicers (for Month & Day filters)
 
-Conditional Formatting
+> Conditional Formatting
 
 🧩 Skills Demonstrated
 
-Data Cleaning & Preparation
+> Data Cleaning & Preparation
 
-Data Visualization
+> Data Visualization
 
-Dashboard Design
+> Dashboard Design
 
-Business Analysis
+> Business Analysis
 
-Storytelling with Data
+> Storytelling with Data
 
 📷 Dashboard Preview
-![Coffee Shope Sales](.image/pre1)
+![Coffee Shope Sales](image/pre1.png)
 
-![Coffee Shope Sales](.image/pre2)
+![Coffee Shope Sales](image/pre2.png)
 
-![Coffee Shope Sales](.image/pre3)
+![Coffee Shope Sales](image/pre3.png)
 
 🚀 How to Use
 
-Download the Excel file from this repository.
-
-Open in Microsoft Excel (2016 or later).
-
-Use slicers (Month/Day filters) to interact with the data dynamically.
+> Use slicers (Month/Day filters) to interact with the data dynamically.
 
 📌 Author
 
 Prerna Tiwari
 
 📧 [prernat072@gmail.com] 
-💻 [GitHub Profile Link]
+💻 GitHub Profile Link: https://github.com/prerna212005
